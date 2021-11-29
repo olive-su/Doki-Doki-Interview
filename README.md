@@ -2,13 +2,15 @@
 
 ## 2021.11.15. ~ 2021.11.22.
 * 'AYU 게임 개발 대회'에 참가하며 만들었던 게임 프로젝트입니다!
-* Development Tool : Unity
+* 개발 도구 : <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+* 게임 소개 영상 : <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&url=https://www.youtube.com/watch?v=diWq5zJnJVI"/>
 
 ---
 ## 프로젝트 설명
 1. 게임 제목 : 두근두근 면담시간
 2. 게임 장르 : 캐주얼, 아케이드
 3. 플레이 방법 : 여러 생존 아이템을 먹으며 교수님의 침방울 공격을 피해 오랫동안 살아남는다.
+
 
 ![찐찐최종_page-0003](https://user-images.githubusercontent.com/67156494/143377248-14351d33-3108-46cc-a7ff-e35d1f26ac22.jpg)
 ![찐찐최종_page-0004](https://user-images.githubusercontent.com/67156494/143377253-65d4f2b5-bb85-4881-8992-61725bb5ee45.jpg)
