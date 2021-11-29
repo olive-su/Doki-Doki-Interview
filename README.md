@@ -2,8 +2,10 @@
 
 ## 2021.11.15. ~ 2021.11.22.
 * 'AYU 게임 개발 대회'에 참가하며 만들었던 게임 프로젝트입니다!
-* 개발 도구 : <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-* 게임 소개 영상 : <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&url=https://www.youtube.com/watch?v=diWq5zJnJVI"/>
+* 개발 도구 : ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+* 게임 소개 영상 : [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=diWq5zJnJVI)
+* 게임 다운로드 : [![One store](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000759446)
+
 
 ---
 ## 프로젝트 설명
